@@ -1,0 +1,2 @@
+# LustyCoin
+Money manager
